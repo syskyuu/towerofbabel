@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktowerofbabel=self.webpackChunktowerofbabel||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/towerofbabel/blog","blogTitle":"Blog"}')}}]);
